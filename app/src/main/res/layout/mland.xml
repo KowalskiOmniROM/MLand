@@ -15,7 +15,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.example.davinci42.flappybird.MLand
+    <com.android.systemui.eggm.MLand
         android:id="@+id/world"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
