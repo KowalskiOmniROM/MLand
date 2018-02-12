@@ -1,5 +1,3 @@
-package com.android.systemui.eggm;
-
 /*
  * Copyright (C) 2015 The Android Open Source Project
  *
@@ -16,11 +14,14 @@ package com.android.systemui.eggm;
  * limitations under the License.
  */
 
+package com.android.systemui.eggm;
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.marshmallow.land.R;
 
 public class MLandActivity extends Activity {
     MLand mLand;

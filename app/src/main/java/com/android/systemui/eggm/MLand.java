@@ -1,6 +1,3 @@
-package com.android.systemui.eggm;
-
-
 /*
  * Copyright (C) 2015 The Android Open Source Project
  *
@@ -16,6 +13,7 @@ package com.android.systemui.eggm;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+package com.android.systemui.eggm;
 
 import android.animation.LayoutTransition;
 import android.animation.TimeAnimator;
@@ -48,6 +46,8 @@ import android.view.ViewOutlineProvider;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.marshmallow.land.R;
 
 import java.util.ArrayList;
 
