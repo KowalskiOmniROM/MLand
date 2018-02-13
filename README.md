@@ -1,3 +1,6 @@
+
+![MM_Head](https://raw.githubusercontent.com/KowalskiOmniROM/MarshmallowLand/master/artwork/MM_Head.png)
+
 # MarshmallowLand
 Android game Marshmallow easter egg
 
